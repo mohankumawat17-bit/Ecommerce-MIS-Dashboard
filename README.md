@@ -27,3 +27,7 @@ This project showcases an interactive MIS dashboard built using Excel.
 
 ## Author
 Mohan Kumawat
+
+## 📸 Dashboard Preview
+
+![Dashboard](images/dashboard.png)
