@@ -30,4 +30,4 @@ Mohan Kumawat
 
 ## 📸 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashborad.png)
